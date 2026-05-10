@@ -83,7 +83,7 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview](zomato_dashboard-ezgif.com-gif-to-mp4-converter (1).mp4)
 
 ---
 
